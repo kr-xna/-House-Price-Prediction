@@ -118,3 +118,5 @@ plt.xlabel('Actual Price')
 plt.ylabel('Residuals')
 plt.title('Random Forest Residuals')
 plt.show()
+
+print("Analysis complete.")
